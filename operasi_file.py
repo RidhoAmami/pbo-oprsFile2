@@ -24,4 +24,3 @@ tulis(tulisan, teksBaru)
 
 baca(tulisan)
 
-print ("contoh error")
